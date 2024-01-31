@@ -1,0 +1,137 @@
+/* ESTILOS GLOBAIS */
+body {
+    margin: 0;
+    font-family: 'Tahoma';
+}
+
+div {
+    padding: 30px 0;
+    text-align: center;
+}
+
+p {
+    width: 980px;
+    margin: 10px auto;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: justify;
+}
+
+span {
+    font-weight: bold;
+}
+
+/* LOGO */
+.img-logo {
+    width: 150px;
+}
+
+/* 1ª SECAO */
+.secao1 {
+    background-color: #afddfb;
+}
+
+.secao1 p {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.secao1 p a {
+    margin: 0 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+}
+
+/* 2º SECAO */
+.secao2 {
+    margin-top: 50px;
+    padding-top: 0; 
+}
+
+/* 3ª SECAO */
+h1 {
+    margin-bottom: 5px;
+    color: #1d1d1d;
+}
+
+h2 {
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.img-corpo {
+    width: 450px;
+}
+
+/* 4ª SECAO */
+.background-azul {
+    background-color: #1d80c1;
+}
+
+.subtitulo {
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 42px;
+    color: #ffffff;
+}
+
+.secao4 p {
+    width: 700px;
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.texto-amarelo {
+    color: #fff81b;
+}
+
+.secao4 ul {
+    width: 135px;
+    margin: 40px auto;
+}
+
+.secao4 li {
+    font-size: 22px;
+    line-height: 42px;
+    text-align: left;
+    color: #ffffff;
+}
+
+/* 5ª SECAO */
+.texto-azul {
+    color: #1d80c1;
+}
+
+/* 6ª SECAO */
+.secao6 p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 15px;
+    color: #ffffff;
+    background-color: #1d1d1d;
+}
+
+.secao6 ul {
+    width: 210px;
+    margin: 40px auto;
+    list-style: none;
+}
+
+.secao6 li {
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.secao6 li a {
+    padding: 2px 5px;
+    color: #1d80c1;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
